@@ -1,0 +1,8 @@
+Testing url : 
+http://127.0.0.1:50280/wse/wsexplorer/wsexplorer.jsp?org.eclipse.wst.ws.explorer=0
+
+End point:
+http://localhost:8080/Buddy/services/Nums
+wsdl :
+http://localhost:8080/Buddy/services/Nums?wsdl
+
